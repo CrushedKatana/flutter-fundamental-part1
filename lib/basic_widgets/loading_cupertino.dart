@@ -14,7 +14,7 @@ class LoadingCupertino extends StatelessWidget {
           children: <Widget>[
             CupertinoButton(
               child: const Text(
-                "Contoh button | Hidayat Widi Saputra | 2341720157",
+                "Contoh button",
               ),
               onPressed: () {},
             ),
